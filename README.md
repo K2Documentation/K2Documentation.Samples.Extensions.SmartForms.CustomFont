@@ -1,6 +1,9 @@
 # K2Documentation.Samples.Extensions.SmartForms.CustomFont
 This project contains sample code that demonstrates how to register new font names making them available in the **Format** dialog.
 
+Find more information in the K2 Developers Reference here:
+https://help.k2.com/onlinehelp/k2five/DevRef/current/default.htm#Fonts/Sample-Fonts-Project.htm
+
 ## Prerequisites
 The sample code has the following dependencies: 
 * .NET Assemblies (the K2 client-side tools install includes the assemblies and they are also included in the project's References folder)
